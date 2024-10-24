@@ -1,0 +1,4 @@
+venv/*
+week8/chroma_db/*
+week8/vector_database/*
+week8/.env
